@@ -1,1 +1,2 @@
-A html and CSS powered Basic Sign Up form to put my knowledge to practice
+# Sign-Up-Form
+making an interactive sign-up form with proper validations
